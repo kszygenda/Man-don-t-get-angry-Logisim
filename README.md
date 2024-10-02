@@ -1,4 +1,5 @@
 ### Man Don't get angry board game project ###
+Done as a part of Poznań University of Technology "Techika Cyfrowa" course. (Digital Logic and Design)
 ## Created entirely in logisim ##
 # The project uses: #
 - LCD display (external library)
@@ -13,4 +14,3 @@ Each box on the screen is mapped with unique number.
 
 And the rest is basically programming ifs e.g. taking down pawns, winning, going to "base". 
 
-Done as a part of Poznań University of Technology "Techika Cyfrowa" course. (Digital Logic and Design)
